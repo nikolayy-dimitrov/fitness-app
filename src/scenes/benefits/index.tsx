@@ -71,7 +71,7 @@ const Benefits = ({ setSelectedPage }: Props) => {
                         visible: {opacity: 1, x: 0},
                 }}
             >
-                <HText>UNLEASH.TRANSCEND.EXCEL.</HText>
+                <HText>FUSION.</HText>
                 <p className="my-5 text-sm">Experience the epitome of fitness excellence with our world-class equipment,
                     exceptional trainers, and invigorating classes.
                     We are dedicated to ensuring your success in reaching your ultimate fitness goals effortlessly.
