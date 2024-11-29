@@ -1,5 +1,5 @@
 # FitFusion
-[Live Preview](https://fitness-app-4f7.pages.dev/)
+[Live Preview](https://fitfusion.nikolay-dimitrov.xyz/)
 
 ## Overview
 FitFusion is a modern and responsive front-end application that focuses on fitness and health. It is a **single-page application (SPA)** offering users personalized workout plans, progress tracking, an extensive exercise library, and community support. 
